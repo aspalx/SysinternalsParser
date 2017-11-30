@@ -1,0 +1,1 @@
+  0x7c900000  0xb2000   5.01.2600.6055  C:\WINDOWS\system32\ntdll.dll

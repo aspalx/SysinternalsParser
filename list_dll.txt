@@ -1,0 +1,789 @@
+------------------------------------------------------------------------------
+cmd.exe pid: 3828
+Command line: "cmd.exe" /s /k pushd "D:\downloads"
+
+Base                Size      Path
+0x000000002a830000  0x59000   C:\Windows\system32\cmd.exe
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Обработчик команд Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:23:21 2016
+
+0x00000000ae870000  0x1d1000  C:\Windows\SYSTEM32\ntdll.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Системная библиотека NT
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 11:59:43 2016
+
+0x00000000ac370000  0xab000   C:\Windows\System32\KERNEL32.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека клиента Windows NT BASE API
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:21:29 2016
+
+0x00000000abbc0000  0x21d000  C:\Windows\System32\KERNELBASE.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека клиента Windows NT BASE API
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 12:01:26 2016
+
+0x00000000ae0c0000  0x9e000   C:\Windows\System32\msvcrt.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows NT CRT DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	7.0.14393.0
+	Create time:	Sat Jul 16 05:26:15 2016
+
+0x00000000a3710000  0xa000    C:\Windows\SYSTEM32\cmdext.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	cmd.exe Extension DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:20:01 2016
+
+0x00000000ac550000  0xa2000   C:\Windows\System32\ADVAPI32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Расширенная библиотека API Windows 32
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:16:36 2016
+
+0x00000000ae3a0000  0x59000   C:\Windows\System32\sechost.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Host for SCM/SDDL/LSA Lookup APIs
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:22:52 2016
+
+0x00000000ac420000  0x121000  C:\Windows\System32\RPCRT4.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека удаленного вызова процедур
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.82
+	File version:	6.2.14393.82
+	Create time:	Sat Aug 06 06:26:07 2016
+
+0x000000009ec50000  0x8f000   C:\Program Files (x86)\clink\0.4.8\clink_dll_x64.dll
+	Verified:	Unsigned
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	0.4.8.33220
+	File version:	0.4.8.33220
+	Create time:	Wed Jul 13 23:20:58 2016
+
+0x00000000ae230000  0x165000  C:\Windows\System32\USER32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Многопользовательская библиотека клиента USER API Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.576
+	File version:	6.2.14393.576
+	Create time:	Fri Dec 09 12:28:25 2016
+
+0x00000000abde0000  0x1e000   C:\Windows\System32\win32u.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Win32u
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.51
+	File version:	6.2.14393.51
+	Create time:	Tue Aug 02 11:21:20 2016
+
+0x00000000abe00000  0x34000   C:\Windows\System32\GDI32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	GDI Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.206
+	File version:	6.2.14393.206
+	Create time:	Thu Sep 15 19:37:10 2016
+
+0x00000000ab050000  0x182000  C:\Windows\System32\gdi32full.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	GDI Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.576
+	File version:	6.2.14393.576
+	Create time:	Fri Dec 09 12:41:15 2016
+
+0x00000000acbb0000  0x1509000  C:\Windows\System32\SHELL32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Общая библиотека оболочки Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 12:13:46 2016
+
+0x00000000ab000000  0x42000   C:\Windows\System32\cfgmgr32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Configuration Manager DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:26:04 2016
+
+0x00000000ab4e0000  0x6da000  C:\Windows\System32\windows.storage.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	API хранения Microsoft WinRT
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 12:12:16 2016
+
+0x00000000ac670000  0x2c8000  C:\Windows\System32\combase.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Microsoft COM для Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.576
+	File version:	6.2.14393.576
+	Create time:	Fri Dec 09 12:21:26 2016
+
+0x00000000ab3e0000  0xf5000   C:\Windows\System32\ucrtbase.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Microsoft® C Runtime Library
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:11:01 2016
+
+0x00000000aad60000  0x6a000   C:\Windows\System32\bcryptPrimitives.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows Cryptographic Primitives Library
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:24:47 2016
+
+0x00000000aace0000  0x4c000   C:\Windows\System32\powrprof.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	DLL модуля поддержки профиля управления питанием
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:21:19 2016
+
+0x00000000aca90000  0x52000   C:\Windows\System32\shlwapi.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека небольших программ оболочки
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:14:37 2016
+
+0x00000000aacd0000  0xf000    C:\Windows\System32\kernel.appcore.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	AppModel API Host
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:27:35 2016
+
+0x00000000ab330000  0xa9000   C:\Windows\System32\shcore.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	SHCORE
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:14:43 2016
+
+0x00000000aad40000  0x14000   C:\Windows\System32\profapi.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	User Profile Basic API
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:26:56 2016
+
+0x000000009f510000  0x192000  C:\Windows\system32\dbghelp.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft
+	Description:	Windows Image Helper
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14321.1024
+	File version:	6.2.14321.1024
+	Create time:	Sat Jul 16 05:13:49 2016
+
+0x000000009f480000  0x29000   C:\Windows\system32\dbgcore.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft
+	Description:	Windows Core Debugging Helpers
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14321.1024
+	File version:	6.2.14321.1024
+	Create time:	Sat Jul 16 05:11:33 2016
+
+0x00000000ae570000  0x2e000   C:\Windows\System32\IMM32.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Multi-User Windows IMM32 API Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:25:52 2016
+
+------------------------------------------------------------------------------
+cmd.exe pid: 6984
+Command line: "C:\Windows\system32\cmd.exe" 
+
+Base                Size      Path
+0x000000002a830000  0x59000   C:\Windows\system32\cmd.exe
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Обработчик команд Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:23:21 2016
+
+0x00000000ae870000  0x1d1000  C:\Windows\SYSTEM32\ntdll.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Системная библиотека NT
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 11:59:43 2016
+
+0x00000000ac370000  0xab000   C:\Windows\System32\KERNEL32.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека клиента Windows NT BASE API
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:21:29 2016
+
+0x00000000abbc0000  0x21d000  C:\Windows\System32\KERNELBASE.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека клиента Windows NT BASE API
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 12:01:26 2016
+
+0x00000000ae0c0000  0x9e000   C:\Windows\System32\msvcrt.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows NT CRT DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	7.0.14393.0
+	Create time:	Sat Jul 16 05:26:15 2016
+
+0x00000000a5890000  0x14000   C:\Windows\SYSTEM32\winbrand.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows Branding Resources
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:18:12 2016
+
+0x00000000a3710000  0xa000    C:\Windows\SYSTEM32\cmdext.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	cmd.exe Extension DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:20:01 2016
+
+0x00000000ac550000  0xa2000   C:\Windows\System32\ADVAPI32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Расширенная библиотека API Windows 32
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:16:36 2016
+
+0x00000000ae3a0000  0x59000   C:\Windows\System32\sechost.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Host for SCM/SDDL/LSA Lookup APIs
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:22:52 2016
+
+0x00000000ac420000  0x121000  C:\Windows\System32\RPCRT4.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека удаленного вызова процедур
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.82
+	File version:	6.2.14393.82
+	Create time:	Sat Aug 06 06:26:07 2016
+
+0x000000009ec50000  0x8f000   C:\Program Files (x86)\clink\0.4.8\clink_dll_x64.dll
+	Verified:	Unsigned
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	0.4.8.33220
+	File version:	0.4.8.33220
+	Create time:	Wed Jul 13 23:20:58 2016
+
+0x00000000ae230000  0x165000  C:\Windows\System32\USER32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Многопользовательская библиотека клиента USER API Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.576
+	File version:	6.2.14393.576
+	Create time:	Fri Dec 09 12:28:25 2016
+
+0x00000000abde0000  0x1e000   C:\Windows\System32\win32u.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Win32u
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.51
+	File version:	6.2.14393.51
+	Create time:	Tue Aug 02 11:21:20 2016
+
+0x00000000abe00000  0x34000   C:\Windows\System32\GDI32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	GDI Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.206
+	File version:	6.2.14393.206
+	Create time:	Thu Sep 15 19:37:10 2016
+
+0x00000000ab050000  0x182000  C:\Windows\System32\gdi32full.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	GDI Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.576
+	File version:	6.2.14393.576
+	Create time:	Fri Dec 09 12:41:15 2016
+
+0x00000000acbb0000  0x1509000  C:\Windows\System32\SHELL32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Общая библиотека оболочки Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 12:13:46 2016
+
+0x00000000ab000000  0x42000   C:\Windows\System32\cfgmgr32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Configuration Manager DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:26:04 2016
+
+0x00000000ab4e0000  0x6da000  C:\Windows\System32\windows.storage.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	API хранения Microsoft WinRT
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 12:12:16 2016
+
+0x00000000ac670000  0x2c8000  C:\Windows\System32\combase.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Microsoft COM для Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.576
+	File version:	6.2.14393.576
+	Create time:	Fri Dec 09 12:21:26 2016
+
+0x00000000ab3e0000  0xf5000   C:\Windows\System32\ucrtbase.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Microsoft® C Runtime Library
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:11:01 2016
+
+0x00000000aad60000  0x6a000   C:\Windows\System32\bcryptPrimitives.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows Cryptographic Primitives Library
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:24:47 2016
+
+0x00000000aace0000  0x4c000   C:\Windows\System32\powrprof.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	DLL модуля поддержки профиля управления питанием
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:21:19 2016
+
+0x00000000aca90000  0x52000   C:\Windows\System32\shlwapi.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека небольших программ оболочки
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:14:37 2016
+
+0x00000000aacd0000  0xf000    C:\Windows\System32\kernel.appcore.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	AppModel API Host
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:27:35 2016
+
+0x00000000ab330000  0xa9000   C:\Windows\System32\shcore.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	SHCORE
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:14:43 2016
+
+0x00000000aad40000  0x14000   C:\Windows\System32\profapi.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	User Profile Basic API
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:26:56 2016
+
+0x000000009f510000  0x192000  C:\Windows\system32\dbghelp.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft
+	Description:	Windows Image Helper
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14321.1024
+	File version:	6.2.14321.1024
+	Create time:	Sat Jul 16 05:13:49 2016
+
+0x000000009f480000  0x29000   C:\Windows\system32\dbgcore.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft
+	Description:	Windows Core Debugging Helpers
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14321.1024
+	File version:	6.2.14321.1024
+	Create time:	Sat Jul 16 05:11:33 2016
+
+0x00000000ae570000  0x2e000   C:\Windows\System32\IMM32.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Multi-User Windows IMM32 API Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:25:52 2016
+
+------------------------------------------------------------------------------
+cmd.exe pid: 4128
+Command line: "C:\Windows\system32\cmd.exe" 
+
+Base                Size      Path
+0x000000002a830000  0x59000   C:\Windows\system32\cmd.exe
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Обработчик команд Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:23:21 2016
+
+0x00000000ae870000  0x1d1000  C:\Windows\SYSTEM32\ntdll.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Системная библиотека NT
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 11:59:43 2016
+
+0x00000000ac370000  0xab000   C:\Windows\System32\KERNEL32.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека клиента Windows NT BASE API
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:21:29 2016
+
+0x00000000abbc0000  0x21d000  C:\Windows\System32\KERNELBASE.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека клиента Windows NT BASE API
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 12:01:26 2016
+
+0x00000000ae0c0000  0x9e000   C:\Windows\System32\msvcrt.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows NT CRT DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	7.0.14393.0
+	Create time:	Sat Jul 16 05:26:15 2016
+
+0x00000000a5890000  0x14000   C:\Windows\SYSTEM32\winbrand.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows Branding Resources
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:18:12 2016
+
+0x00000000a3710000  0xa000    C:\Windows\SYSTEM32\cmdext.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	cmd.exe Extension DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:20:01 2016
+
+0x00000000ac550000  0xa2000   C:\Windows\System32\ADVAPI32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Расширенная библиотека API Windows 32
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:16:36 2016
+
+0x00000000ae3a0000  0x59000   C:\Windows\System32\sechost.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Host for SCM/SDDL/LSA Lookup APIs
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:22:52 2016
+
+0x00000000ac420000  0x121000  C:\Windows\System32\RPCRT4.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека удаленного вызова процедур
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.82
+	File version:	6.2.14393.82
+	Create time:	Sat Aug 06 06:26:07 2016
+
+0x000000009ec50000  0x8f000   C:\Program Files (x86)\clink\0.4.8\clink_dll_x64.dll
+	Verified:	Unsigned
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	0.4.8.33220
+	File version:	0.4.8.33220
+	Create time:	Wed Jul 13 23:20:58 2016
+
+0x00000000ae230000  0x165000  C:\Windows\System32\USER32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Многопользовательская библиотека клиента USER API Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.576
+	File version:	6.2.14393.576
+	Create time:	Fri Dec 09 12:28:25 2016
+
+0x00000000abde0000  0x1e000   C:\Windows\System32\win32u.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Win32u
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.51
+	File version:	6.2.14393.51
+	Create time:	Tue Aug 02 11:21:20 2016
+
+0x00000000abe00000  0x34000   C:\Windows\System32\GDI32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	GDI Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.206
+	File version:	6.2.14393.206
+	Create time:	Thu Sep 15 19:37:10 2016
+
+0x00000000ab050000  0x182000  C:\Windows\System32\gdi32full.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	GDI Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.576
+	File version:	6.2.14393.576
+	Create time:	Fri Dec 09 12:41:15 2016
+
+0x00000000acbb0000  0x1509000  C:\Windows\System32\SHELL32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Общая библиотека оболочки Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 12:13:46 2016
+
+0x00000000ab000000  0x42000   C:\Windows\System32\cfgmgr32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Configuration Manager DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:26:04 2016
+
+0x00000000ab4e0000  0x6da000  C:\Windows\System32\windows.storage.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	API хранения Microsoft WinRT
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 12:12:16 2016
+
+0x00000000ac670000  0x2c8000  C:\Windows\System32\combase.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Microsoft COM для Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.576
+	File version:	6.2.14393.576
+	Create time:	Fri Dec 09 12:21:26 2016
+
+0x00000000ab3e0000  0xf5000   C:\Windows\System32\ucrtbase.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Microsoft® C Runtime Library
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:11:01 2016
+
+0x00000000aad60000  0x6a000   C:\Windows\System32\bcryptPrimitives.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows Cryptographic Primitives Library
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:24:47 2016
+
+0x00000000aace0000  0x4c000   C:\Windows\System32\powrprof.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	DLL модуля поддержки профиля управления питанием
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:21:19 2016
+
+0x00000000aca90000  0x52000   C:\Windows\System32\shlwapi.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека небольших программ оболочки
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:14:37 2016
+
+0x00000000aacd0000  0xf000    C:\Windows\System32\kernel.appcore.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	AppModel API Host
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:27:35 2016
+
+0x00000000ab330000  0xa9000   C:\Windows\System32\shcore.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	SHCORE
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:14:43 2016
+
+0x00000000aad40000  0x14000   C:\Windows\System32\profapi.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	User Profile Basic API
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:26:56 2016
+
+0x000000009f510000  0x192000  C:\Windows\system32\dbghelp.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft
+	Description:	Windows Image Helper
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14321.1024
+	File version:	6.2.14321.1024
+	Create time:	Sat Jul 16 05:13:49 2016
+
+0x000000009f480000  0x29000   C:\Windows\system32\dbgcore.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft
+	Description:	Windows Core Debugging Helpers
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14321.1024
+	File version:	6.2.14321.1024
+	Create time:	Sat Jul 16 05:11:33 2016
+
+0x00000000ae570000  0x2e000   C:\Windows\System32\IMM32.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Multi-User Windows IMM32 API Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:25:52 2016
+

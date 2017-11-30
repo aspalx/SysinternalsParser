@@ -1,0 +1,8 @@
+0x000000002a830000  0x59000   C:\Windows\system32\cmd.exe
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:23:21 2016

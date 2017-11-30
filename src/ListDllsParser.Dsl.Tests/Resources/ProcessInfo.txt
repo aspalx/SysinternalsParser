@@ -1,0 +1,55 @@
+------------------------------------------------------------------------------
+cmd.exe pid: 3828
+Command line: "cmd.exe" /s /k pushd "D:\downloads"
+
+Base                Size      Path
+0x000000002a830000  0x59000   C:\Windows\system32\cmd.exe
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Обработчик команд Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:23:21 2016
+
+0x00000000ae870000  0x1d1000  C:\Windows\SYSTEM32\ntdll.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Системная библиотека NT
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 11:59:43 2016
+
+0x00000000ac370000  0xab000   C:\Windows\System32\KERNEL32.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Библиотека клиента Windows NT BASE API
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:21:29 2016
+
+------------------------------------------------------------------------------
+cmd.exe pid: 6984
+Command line: "C:\Windows\system32\cmd.exe" 
+
+Base                Size      Path
+0x000000002a830000  0x59000   C:\Windows\system32\cmd.exe
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Обработчик команд Windows
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.0
+	File version:	6.2.14393.0
+	Create time:	Sat Jul 16 05:23:21 2016
+
+0x00000000ae870000  0x1d1000  C:\Windows\SYSTEM32\ntdll.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Системная библиотека NT
+	Product:	Операционная система Microsoft® Windows®
+	Version:	10.0.14393.479
+	File version:	6.2.14393.479
+	Create time:	Fri Nov 11 11:59:43 2016
+

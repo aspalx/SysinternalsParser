@@ -1,0 +1,581 @@
+------------------------------------------------------------------------------
+kashell.exe pid: 3080
+Command line: kashell.exe  scan /ap c:\all_KASSDK_edited
+
+Base                Size      Path
+0x000000003f1f0000  0xf0000   C:\KASSDK_6.0.0.258_x64\kashell\kashell.exe
+	Verified:	Unsigned
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+	Create time:	Thu Dec 22 00:34:52 2016
+
+0x0000000076d00000  0x1a9000  C:\Windows\SYSTEM32\ntdll.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	NT Layer DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.18247
+	File version:	6.1.7601.18247
+	Create time:	Thu Aug 29 06:17:08 2013
+
+0x0000000076be0000  0x11f000  C:\Windows\system32\kernel32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows NT BASE API Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.18015
+	File version:	6.1.7601.18015
+	Create time:	Fri Nov 30 08:43:54 2012
+
+0x00000000fcd90000  0x6b000   C:\Windows\system32\KERNELBASE.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows NT BASE API Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.18015
+	File version:	6.1.7601.18015
+	Create time:	Fri Nov 30 08:43:55 2012
+
+0x0000000062a00000  0x98000   C:\KASSDK_6.0.0.258_x64\kashell\MSVCP100.dll
+	Verified:	Microsoft Corporation
+	Publisher:	Microsoft Corporation
+	Description:	Microsoft® C Runtime Library
+	Product:	Microsoft® Visual Studio® 2010
+	Version:	10.0.40219.325
+	File version:	10.0.40219.325
+	Create time:	Sat Jun 11 04:54:26 2011
+
+0x0000000062920000  0xd2000   C:\KASSDK_6.0.0.258_x64\kashell\MSVCR100.dll
+	Verified:	Microsoft Corporation
+	Publisher:	Microsoft Corporation
+	Description:	Microsoft® C Runtime Library
+	Product:	Microsoft® Visual Studio® 2010
+	Version:	10.0.40219.325
+	File version:	10.0.40219.325
+	Create time:	Sat Jun 11 04:54:04 2011
+
+0x0000000076ae0000  0xfa000   C:\Windows\system32\USER32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Multi-User Windows USER API Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:15:29 2010
+
+0x00000000fcfa0000  0x67000   C:\Windows\system32\GDI32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	GDI Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:00:01 2010
+
+0x00000000fd150000  0xe000    C:\Windows\system32\LPK.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Language Pack
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:29:03 2009
+
+0x00000000fd8b0000  0xc9000   C:\Windows\system32\USP10.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Uniscribe Unicode script processor
+	Product:	Microsoft(R) Uniscribe Unicode script processor
+	Version:	1.626.7601.17514
+	File version:	1.626.7601.17514
+	Create time:	Sat Nov 20 16:15:33 2010
+
+0x00000000fef70000  0x9f000   C:\Windows\system32\msvcrt.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows NT CRT DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.8638.16385
+	File version:	7.0.7600.16385
+	Create time:	Tue Jul 14 05:30:38 2009
+
+0x00000000fd500000  0xdb000   C:\Windows\system32\ADVAPI32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Advanced Windows 32 Base API
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.18247
+	File version:	6.1.7601.18247
+	Create time:	Thu Aug 29 06:13:38 2013
+
+0x00000000fef00000  0x1f000   C:\Windows\SYSTEM32\sechost.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Host for SCM/SDDL/LSA Lookup APIs
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:33:18 2009
+
+0x00000000fce70000  0x12d000  C:\Windows\system32\RPCRT4.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Remote Procedure Call Runtime
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:13:18 2010
+
+0x00000000fd120000  0x2e000   C:\Windows\system32\IMM32.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Multi-User Windows IMM32 API Client DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:28:32 2009
+
+0x00000000fd010000  0x109000  C:\Windows\system32\MSCTF.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	MSCTF Server DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:30:18 2009
+
+0x00000000f4f90000  0xd9000   C:\KASSDK_6.0.0.258_x64\kashell\service.dll
+	Verified:	Unsigned
+	Publisher:	AO Kaspersky Lab
+	Description:	Component service provider
+	Product:	EKA component object model
+	Version:	1.6.0.979
+	File version:	1.10.0.0
+	Create time:	Thu Dec 22 00:41:16 2016
+
+0x00000000f4dc0000  0x1c3000  C:\KASSDK_6.0.0.258_x64\kashell\product\lib\kassdk.dll
+	Verified:	Kaspersky Lab
+	Publisher:	AO Kaspersky Lab
+	Description:	
+	Product:	KAS SDK
+	Version:	6.0.0.260
+	File version:	6.0.0.260
+	Create time:	Wed Dec 21 19:08:03 2016
+
+0x00000000fef20000  0x4d000   C:\Windows\system32\WS2_32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows Socket 2.0 32-Bit DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:16:21 2010
+
+0x00000000fd4d0000  0x8000    C:\Windows\system32\NSI.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	NSI User-mode interface DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:32:25 2009
+
+0x00000000f3590000  0xd5000   C:\KASSDK_6.0.0.258_x64\kashell\product\lib\kl_service.dll
+	Verified:	Kaspersky Lab
+	Publisher:	AO Kaspersky Lab
+	Description:	Component service provider
+	Product:	Instrumental PDK
+	Version:	1.6.0.210
+	File version:	1.10.0.0
+	Create time:	Mon Jul 11 20:25:12 2016
+
+0x00000000ef500000  0x29c000  C:\KASSDK_6.0.0.258_x64\kashell\product\lib\updater_facade.dll
+	Verified:	Kaspersky Lab
+	Publisher:	AO Kaspersky Lab
+	Description:	Updater library
+	Product:	Updater PDK
+	Version:	4.6.0.545
+	File version:	4.6.0.545
+	Create time:	Mon Jun 13 04:40:02 2016
+
+0x00000000fd980000  0x203000  C:\Windows\system32\ole32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Microsoft OLE for Windows
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:12:12 2010
+
+0x00000000f8900000  0x18000   C:\Windows\system32\MPR.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Multiple Provider Router DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:29:24 2009
+
+0x00000000f9770000  0x71000   C:\Windows\system32\WINHTTP.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Windows HTTP Services
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:16:19 2010
+
+0x00000000f9700000  0x64000   C:\Windows\system32\webio.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Web Transfer Protocols API
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:15:34 2010
+
+0x00000000f3540000  0x46000   C:\KASSDK_6.0.0.258_x64\kashell\product\lib\updater_meta.dll
+	Verified:	Kaspersky Lab
+	Publisher:	AO Kaspersky Lab
+	Description:	Updater meta library
+	Product:	Updater PDK
+	Version:	4.6.0.545
+	File version:	4.6.0.545
+	Create time:	Mon Jun 13 04:33:47 2016
+
+0x00000000f5570000  0x12000   C:\KASSDK_6.0.0.258_x64\kashell\product\lib\packed_io.dll
+	Verified:	Kaspersky Lab
+	Publisher:	AO Kaspersky Lab
+	Description:	Lib to work with packed files
+	Product:	Instrumental PDK
+	Version:	1.6.0.210
+	File version:	1.6.0.210
+	Create time:	Mon Jul 11 20:24:19 2016
+
+0x00000000f1850000  0xe5000   C:\KASSDK_6.0.0.258_x64\kashell\product\lib\network_services.dll
+	Verified:	Kaspersky Lab
+	Publisher:	AO Kaspersky Lab
+	Description:	Network services library
+	Product:	Instrumental PDK
+	Version:	1.6.0.210
+	File version:	1.6.0.210
+	Create time:	Mon Jul 11 20:26:14 2016
+
+0x00000000fd770000  0x52000   C:\Windows\system32\WLDAP32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Win32 LDAP API DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:17:10 2010
+
+0x00000000fd7d0000  0xd7000   C:\Windows\system32\OLEAUT32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	n/a
+	Product:	n/a
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:12:16 2010
+
+0x00000000ef9c0000  0x1d3000  C:\KASSDK_6.0.0.258_x64\kashell\product\lib\ksn_facade.dll
+	Verified:	Kaspersky Lab
+	Publisher:	AO Kaspersky Lab
+	Description:	Facade for KSN PDK
+	Product:	KSN PDK
+	Version:	4.10.1.64
+	File version:	4.10.1.64
+	Create time:	Tue Jun 28 21:27:52 2016
+
+0x00000000fcbc0000  0x167000  C:\Windows\system32\CRYPT32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Crypto API32
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 15:59:59 2010
+
+0x00000000fcac0000  0xf000    C:\Windows\system32\MSASN1.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	ASN.1 Runtime APIs
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:06:13 2010
+
+0x00000000fc6b0000  0xb000    C:\Windows\system32\Secur32.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Security Support Provider Interface
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:14:08 2010
+
+0x00000000fc880000  0x25000   C:\Windows\system32\SSPICLI.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Security Support Provider Interface
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:15:27 2010
+
+0x00000000fc2b0000  0x17000   C:\Windows\system32\CRYPTSP.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Cryptographic Service Provider API
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:29:58 2009
+
+0x00000000fbfb0000  0x47000   C:\Windows\system32\rsaenh.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Microsoft Enhanced Cryptographic Provider
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:32:41 2009
+
+0x00000000fc910000  0xf000    C:\Windows\system32\CRYPTBASE.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Base cryptographic API DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:29:53 2009
+
+0x00000000f1770000  0xd6000   C:\KASSDK_6.0.0.258_x64\kashell\product\lib\reputation_engine.dll
+	Verified:	Kaspersky Lab
+	Publisher:	n/a
+	Description:	n/a
+	Product:	n/a
+	Version:	n/a
+	File version:	n/a
+	Create time:	Thu Jan 21 13:36:40 2016
+
+0x00000000f1960000  0xa0000   C:\KASSDK_6.0.0.258_x64\kashell\product\lib\libkas-loader-5-7-0.dll
+	Verified:	Kaspersky Lab
+	Publisher:	Kaspersky Lab ZAO
+	Description:	KASEngine EKA library
+	Product:	KAS-Engine
+	Version:	5.7.0.39
+	File version:	5.7.0.39
+	Create time:	Fri Oct 21 22:39:41 2016
+
+0x00000000ef2e0000  0x107000  C:\KASSDK_6.0.0.258_x64\kashell\product\bin\work\plugins\kas_engine_eka-5-7-0-39.dll
+	Verified:	Unsigned
+	Publisher:	Kaspersky Lab ZAO
+	Description:	KASEngine EKA library
+	Product:	KAS-Engine
+	Version:	5.7.0.39
+	File version:	5.7.0.39
+	Create time:	Fri Oct 21 22:39:33 2016
+
+0x00000000eebd0000  0x702000  C:\KASSDK_6.0.0.258_x64\kashell\product\bin\work\plugins\engine-5-7-0-39.dll
+	Verified:	Unsigned
+	Publisher:	Kaspersky Lab ZAO
+	Description:	KAS-Engine dynamic library
+	Product:	KAS-Engine
+	Version:	5.7.0.39
+	File version:	5.7.0.39
+	Create time:	Fri Oct 21 22:42:14 2016
+
+0x00000000ed260000  0x1969000  C:\KASSDK_6.0.0.258_x64\kashell\product\bin\work\plugins\cpconvert-5-7-0-39.dll
+	Verified:	Unsigned
+	Publisher:	Kaspersky Lab ZAO
+	Description:	Convert dynamic library
+	Product:	KAS-Engine
+	Version:	5.7.0.39
+	File version:	5.7.0.39
+	Create time:	Fri Oct 21 22:41:05 2016
+
+0x00000000fc250000  0x55000   C:\Windows\system32\mswsock.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Microsoft Windows Sockets 2.0 Service Provider
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.18254
+	File version:	6.1.7601.18254
+	Create time:	Sun Sep 08 06:28:03 2013
+
+0x00000000fbc70000  0x7000    C:\Windows\System32\wshtcpip.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Winsock2 Helper DLL (TL/IPv4)
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:34:47 2009
+
+0x00000000fc240000  0x7000    C:\Windows\System32\wship6.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Winsock2 Helper DLL (TL/IPv6)
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:34:41 2009
+
+0x00000000fc0d0000  0x5b000   C:\Windows\system32\DNSAPI.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	DNS Client API DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 15:58:26 2010
+
+0x00000000fa310000  0x27000   C:\Windows\system32\IPHLPAPI.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	IP Helper API
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:02:18 2010
+
+0x00000000fa300000  0xb000    C:\Windows\system32\WINNSI.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Network Store Information RPC interface
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:34:41 2009
+
+0x00000000f96d0000  0x8000    C:\Windows\system32\rasadhlp.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Remote Access AutoDial Helper
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:32:29 2009
+
+0x00000000fa1b0000  0x53000   C:\Windows\System32\fwpuclnt.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	FWP/IPsec User-Mode API
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:27:54 2009
+
+0x00000000ed140000  0x117000  C:\KASSDK_6.0.0.258_x64\kashell\product\bin\work\plugins\filtration-5-7-0-39.dll
+	Verified:	Unsigned
+	Publisher:	Kaspersky Lab ZAO
+	Description:	Content Filtration dynamic library
+	Product:	KAS-Engine
+	Version:	5.7.0.39
+	File version:	5.7.0.39
+	Create time:	Fri Oct 21 22:41:15 2016
+
+0x00000000ef410000  0xea000   C:\KASSDK_6.0.0.258_x64\kashell\product\bin\work\plugins\gsg-5-7-0-39.dll
+	Verified:	Unsigned
+	Publisher:	Kaspersky Lab ZAO
+	Description:	GSG dynamic library
+	Product:	KAS-Engine
+	Version:	5.7.0.39
+	File version:	5.7.0.39
+	Create time:	Fri Oct 21 22:39:23 2016
+
+0x00000000f1710000  0x55000   C:\KASSDK_6.0.0.258_x64\kashell\product\bin\work\plugins\dns_resolver-5-7-0-39.dll
+	Verified:	Unsigned
+	Publisher:	Kaspersky Lab ZAO
+	Description:	DNS resolver dynamic library
+	Product:	KAS-Engine
+	Version:	5.7.0.39
+	File version:	5.7.0.39
+	Create time:	Fri Oct 21 22:39:06 2016
+
+0x00000000f16b0000  0x5b000   C:\KASSDK_6.0.0.258_x64\kashell\product\bin\work\plugins\uds-5-7-0-39.dll
+	Verified:	Unsigned
+	Publisher:	Kaspersky Lab ZAO
+	Description:	UDS dynamic library
+	Product:	KAS-Engine
+	Version:	5.7.0.39
+	File version:	5.7.0.39
+	Create time:	Fri Oct 21 22:39:13 2016
+
+0x00000000ec820000  0x481000  C:\KASSDK_6.0.0.258_x64\kashell\product\bin\work\plugins\moebius-5-7-0-39.dll
+	Verified:	Unsigned
+	Publisher:	Kaspersky Lab ZAO
+	Description:	Moebius dynamic library
+	Product:	KAS-Engine
+	Version:	5.7.0.39
+	File version:	5.7.0.39
+	Create time:	Fri Oct 21 22:41:02 2016
+
+0x00000000fa180000  0x11000   C:\Windows\system32\dhcpcsvc6.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	DHCPv6 Client
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:26:31 2009
+
+0x00000000fa160000  0x18000   C:\Windows\system32\dhcpcsvc.DLL
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	DHCP Client Service
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:26:30 2009
+
+0x00000000ecfe0000  0x159000  C:\KASSDK_6.0.0.258_x64\kashell\product\bin\bases\core\heurap.dll
+	Verified:	Kaspersky Lab
+	Publisher:	AO Kaspersky Lab
+	Description:	Heuristic anti-phishing service component
+	Product:	Kaspersky Anti-Virus
+	Version:	2.2.6.77
+	File version:	2.2.6.77
+	Create time:	Wed Mar 09 19:03:02 2016
+
+0x00000000fac80000  0x15000   C:\Windows\system32\NLAapi.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	Network Location Awareness 2
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7601.17514
+	File version:	6.1.7601.17514
+	Create time:	Sat Nov 20 16:09:43 2010
+
+0x00000000f84d0000  0x15000   C:\Windows\system32\napinsp.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	E-mail Naming Shim Provider
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:30:46 2009
+
+0x00000000f84b0000  0x19000   C:\Windows\system32\pnrpnsp.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	PNRP Name Space Provider
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:33:02 2009
+
+0x00000000f84a0000  0xb000    C:\Windows\System32\winrnr.dll
+	Verified:	Microsoft Windows
+	Publisher:	Microsoft Corporation
+	Description:	LDAP RnR Provider DLL
+	Product:	Microsoft® Windows® Operating System
+	Version:	6.1.7600.16385
+	File version:	6.1.7600.16385
+	Create time:	Tue Jul 14 05:34:43 2009
+

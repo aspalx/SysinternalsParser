@@ -1,0 +1,59 @@
+
+ListDLLs v2.25 - DLL lister for Win9x/NT
+Copyright (C) 1997-2004 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+------------------------------------------------------------------------------
+kashell.exe pid: 3528
+Command line: kashell.exe scan /ap c:\all_KASSDK_edited
+
+  Base        Size      Version	        Path
+  0x00400000  0x87000                   C:\KASSDK\kashell\kashell.exe
+  0x7c900000  0xb2000   5.01.2600.6055  C:\WINDOWS\system32\ntdll.dll
+  0x7c800000  0xf6000   5.01.2600.6532  C:\WINDOWS\system32\kernel32.dll
+  0x78050000  0x69000   10.00.40219.0325  C:\KASSDK\kashell\MSVCP100.dll
+  0x78aa0000  0xbf000   10.00.40219.0325  C:\KASSDK\kashell\MSVCR100.dll
+  0x10000000  0xce000   1.07.0001.0000  C:\KASSDK\kashell\service.dll
+  0x77dd0000  0x9b000   5.01.2600.5755  C:\WINDOWS\system32\ADVAPI32.dll
+  0x77e70000  0x93000   5.01.2600.6477  C:\WINDOWS\system32\RPCRT4.dll
+  0x77fe0000  0x11000   5.01.2600.5834  C:\WINDOWS\system32\Secur32.dll
+  0x00490000  0x25d000                  C:\KASSDK\kashell\product\lib\kassdk.dll
+  0x7e410000  0x91000   5.01.2600.5512  C:\WINDOWS\system32\USER32.dll
+  0x77f10000  0x49000   5.01.2600.6460  C:\WINDOWS\system32\GDI32.dll
+  0x71ab0000  0x17000   5.01.2600.5512  C:\WINDOWS\system32\WS2_32.dll
+  0x77c10000  0x58000   7.00.2600.5512  C:\WINDOWS\system32\msvcrt.dll
+  0x71aa0000  0x8000    5.01.2600.5512  C:\WINDOWS\system32\WS2HELP.dll
+  0x77f60000  0x76000   6.00.2900.5912  C:\WINDOWS\system32\SHLWAPI.dll
+  0x7c9c0000  0x817000  6.00.2900.6242  C:\WINDOWS\system32\SHELL32.dll
+  0x76390000  0x1d000   5.01.2600.5512  C:\WINDOWS\system32\IMM32.DLL
+  0x773d0000  0x103000  6.00.2900.6028  C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.6028_x-ww_61e65202\comctl32.dll
+  0x5d090000  0x9a000   5.82.2900.6028  C:\WINDOWS\system32\comctl32.dll
+  0x00ca0000  0x10d000  1.07.0001.0000  C:\KASSDK\kashell\product\lib\kl_service.dll
+  0x5ad70000  0x38000   6.00.2900.5512  C:\WINDOWS\system32\uxtheme.dll
+  0x00eb0000  0xa8000   5.05.0007.0006  C:\KASSDK\kashell\product\lib\libkas-loader-5-5-7.dll
+  0x00f60000  0xe7000   5.05.0007.0006  C:\KASSDK\kashell\product\bin\work\plugins\kas_engine_eka-5-5-7-6.dll
+  0x01070000  0x322000  5.05.0007.0006  C:\KASSDK\kashell\product\bin\work\plugins\engine-5-5-7-6.dll
+  0x013c0000  0x1528000  5.05.0007.0006  C:\KASSDK\kashell\product\bin\work\plugins\cpconvert-5-5-7-6.dll
+  0x02910000  0xf5000   5.05.0007.0006  C:\KASSDK\kashell\product\bin\work\plugins\filtration-5-5-7-6.dll
+  0x02a30000  0xdc000   5.05.0007.0006  C:\KASSDK\kashell\product\bin\work\plugins\gsg-5-5-7-6.dll
+  0x02b30000  0x6c000   5.05.0007.0006  C:\KASSDK\kashell\product\bin\work\plugins\dns_resolver-5-5-7-6.dll
+  0x76f20000  0x27000   5.01.2600.6089  C:\WINDOWS\system32\DNSAPI.dll
+  0x02bc0000  0x72000   5.05.0007.0006  C:\KASSDK\kashell\product\bin\work\plugins\uds-5-5-7-6.dll
+  0x05e50000  0xd5000   2.02.0006.0003  C:\KASSDK\kashell\product\bin\bases\core\heurap.dll
+  0x05f40000  0xdd000   4.03.0001.0042  C:\KASSDK\kashell\product\lib\updater_facade.dll
+  0x06030000  0x10b000  4.03.0001.0042  C:\KASSDK\kashell\product\lib\updater.dll
+  0x4d4f0000  0x59000   5.01.2600.6175  C:\WINDOWS\system32\WINHTTP.dll
+  0x062b0000  0xe7000   5.01.0004.0111  C:\KASSDK\kashell\product\lib\network_services.dll
+  0x76f60000  0x2c000   5.01.2600.5512  C:\WINDOWS\system32\WLDAP32.dll
+  0x774e0000  0x13e000  5.01.2600.6435  C:\WINDOWS\system32\ole32.dll
+  0x77120000  0x8b000   5.01.2600.6341  C:\WINDOWS\system32\OLEAUT32.dll
+  0x063c0000  0x15e000  1.00.0001.0012  C:\KASSDK\kashell\product\lib\libeay32.dll
+  0x77a80000  0x97000   5.131.2600.6459  C:\WINDOWS\system32\CRYPT32.dll
+  0x77b20000  0x12000   5.01.2600.5875  C:\WINDOWS\system32\MSASN1.dll
+  0x68000000  0x36000   5.01.2600.5507  C:\WINDOWS\system32\rsaenh.dll
+  0x07b40000  0x13e000  4.08.0000.0128  C:\KASSDK\kashell\product\lib\ksn_facade.dll
+  0x76d60000  0x19000   5.01.2600.5512  C:\WINDOWS\system32\iphlpapi.dll
+  0x71a50000  0x3f000   5.01.2600.5625  C:\WINDOWS\system32\mswsock.dll
+  0x662b0000  0x58000   5.01.2600.5512  C:\WINDOWS\system32\hnetcfg.dll
+  0x71a90000  0x8000    5.01.2600.5512  C:\WINDOWS\System32\wshtcpip.dll
+  0x76fc0000  0x6000    5.01.2600.5512  C:\WINDOWS\system32\rasadhlp.dll

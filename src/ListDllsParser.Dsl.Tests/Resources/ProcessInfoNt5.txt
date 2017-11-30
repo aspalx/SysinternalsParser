@@ -1,0 +1,20 @@
+
+ListDLLs v2.25 - DLL lister for Win9x/NT
+Copyright (C) 1997-2004 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+------------------------------------------------------------------------------
+cmd.exe pid: 188
+Command line: "C:\WINDOWS\system32\cmd.exe" 
+
+  Base        Size      Version	        Path
+  0x4ad00000  0x61000   5.01.2600.5512  C:\WINDOWS\system32\cmd.exe
+  0x773d0000  0x103000  6.00.2900.6028  C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.6028_x-ww_61e65202\comctl32.dll
+  0x755c0000  0x2e000   5.01.2600.5512  C:\WINDOWS\system32\msctfime.ime
+------------------------------------------------------------------------------
+cmd.exe pid: 3668
+Command line: "C:\WINDOWS\system32\cmd.exe" 
+
+  Base        Size      Version	        Path
+  0x4ad00000  0x61000   5.01.2600.5512  C:\WINDOWS\system32\cmd.exe
+  0x773d0000  0x103000  6.00.2900.6028  C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.6028_x-ww_61e65202\comctl32.dll
